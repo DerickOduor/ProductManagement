@@ -1,0 +1,12 @@
+C:\Users\doduor\source\repos\ProductManagement\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+C:\Users\doduor\source\repos\ProductManagement\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\doduor\source\repos\ProductManagement\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\doduor\source\repos\ProductManagement\Entities\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\doduor\source\repos\ProductManagement\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.dll
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.pdb
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.genruntimeconfig.cache
+C:\Users\doduor\source\repos\ProductManagement\Entities\obj\Release\netcoreapp3.1\Entities.csprojAssemblyReference.cache

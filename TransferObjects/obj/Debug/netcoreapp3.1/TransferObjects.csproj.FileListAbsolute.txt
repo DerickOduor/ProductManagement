@@ -1,0 +1,12 @@
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\bin\Debug\netcoreapp3.1\TransferObjects.deps.json
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\bin\Debug\netcoreapp3.1\TransferObjects.dll
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.csprojAssemblyReference.cache
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.AssemblyInfo.cs
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\bin\Debug\netcoreapp3.1\TransferObjects.pdb
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.csproj.CopyComplete
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.dll
+C:\Users\doduor\source\repos\ProductManagement\TransferObjects\obj\Debug\netcoreapp3.1\TransferObjects.pdb
